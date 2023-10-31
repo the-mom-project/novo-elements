@@ -1,4 +1,4 @@
-@import "~novo-design-tokens/scss";
+@import "novo-design-tokens/scss";
 
 :root {
   // Backgrounds
@@ -91,8 +91,8 @@
   --base-selection-color: 185, 75%;
   --base-selection-lightness: 60%;
 
-  --selection: hsla(var(--selection-color), var(--selection-lightness), 100%) 
-  --selection-muted: hsla(var(--selection-color), 10%, 100%) 
+  --selection: hsla(var(--selection-color), var(--selection-lightness), 100%)
+  --selection-muted: hsla(var(--selection-color), 10%, 100%)
 
 
 
